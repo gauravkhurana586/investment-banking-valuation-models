@@ -15,6 +15,14 @@
 - SaaS-style margins
 - Leverage sustainability
 - Healthcare regulatory risk
+- ## 📊 Key Outputs
+
+Entry Multiple: 10.0x EBITDA  
+Exit Multiple: 11.5x EBITDA  
+5-Year IRR: 21–24%  
+MOIC: ~2.2x  
+Recommendation: Stable healthcare cash flows support sponsor returns
+
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
