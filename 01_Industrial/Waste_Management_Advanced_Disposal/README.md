@@ -16,6 +16,14 @@
 - Synergy realization and cost savings
 - Antitrust and regulatory considerations
 - Valuation sensitivity analysis
+
+- ## 📊 Key Outputs
+
+DCF Implied EV: $64 – $72B  
+Trading Comps Range: $60 – $75B  
+Precedent Transactions: $65 – $80B  
+Accretion/Dilution: Modestly accretive by Year 2  
+Recommendation: Proceed – Strategic fit with synergy upside
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
