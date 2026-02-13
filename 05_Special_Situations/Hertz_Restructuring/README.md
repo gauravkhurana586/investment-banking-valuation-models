@@ -14,6 +14,15 @@
 - Debt vs equity recovery
 - Liquidity runway
 - Bankruptcy outcomes
+- ## 📊 Key Outputs
+
+Normalized EBITDA (2022E): ~$1.5B  
+Base Case EV: ~$6.75B  
+Implied Multiple: 4.5x  
+Senior Secured Recovery: 100%  
+Unsecured Recovery: ~41%  
+Recommendation: Proceed with balance sheet restructuring
+
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
