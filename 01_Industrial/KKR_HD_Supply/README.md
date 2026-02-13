@@ -15,6 +15,13 @@
 - Cash flow stability and working capital dynamics
 - Leverage capacity and debt paydown
 - Operational improvement and exit strategy
+- ## 📊 Key Outputs
+
+Entry Multiple: 9.0x EBITDA  
+Exit Multiple: 10.0x EBITDA  
+5-Year IRR: 22–25%  
+MOIC: ~2.3x  
+Recommendation: Attractive sponsor return profile
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
