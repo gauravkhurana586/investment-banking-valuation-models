@@ -17,6 +17,14 @@
 - EPS accretion / dilution
 - Platform and content synergies
 - Regulatory and antitrust risk
+- ## 📊 Key Outputs
+
+Transaction Value: $68.7B  
+Implied Multiple: 30.5x LTM EBITDA  
+EPS Impact: Modestly dilutive near-term  
+Long-Term Impact: Accretive via subscription growth  
+Recommendation: Strategically compelling acquisition
+
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
