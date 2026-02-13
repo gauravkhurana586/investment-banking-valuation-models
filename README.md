@@ -17,5 +17,5 @@ Banker-style transaction models and writeups across M&A, LBO, and special situat
 Projects are grouped by sector. Each deal folder contains:
 - Excel_Models (primary proof)
 - Memo (PDF)
-- Pitchbook (PDF)# investment-banking-valuation-models
+- Pitchbook (PDF) investment-banking-valuation-models
 Advanced Investment Banking valuation, M&amp;A, and LBO models (Excel + memo + pitchbook).
