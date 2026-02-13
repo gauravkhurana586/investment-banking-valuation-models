@@ -15,6 +15,13 @@
 - Stable recurring cash flows
 - Leverage and debt structuring
 - Exit multiple and IRR sensitivity
+- ## 📊 Key Outputs
+
+Entry Multiple: 8.5x EBITDA  
+Exit Multiple: 9.5x EBITDA  
+5-Year IRR: 20–23%  
+MOIC: ~2.1x  
+Recommendation: Solid cash-flow generative buyout candidate
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
