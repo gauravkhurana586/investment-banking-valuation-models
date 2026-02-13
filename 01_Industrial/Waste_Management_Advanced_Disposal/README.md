@@ -16,3 +16,4 @@
 - Synergy realization and cost savings
 - Antitrust and regulatory considerations
 - Valuation sensitivity analysis
+[Waste Management - Advanced Disposal.xlsx](Excel_Models/Waste%20Management%20-%20Advanced%20Disposal.xlsx)
