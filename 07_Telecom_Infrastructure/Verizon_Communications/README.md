@@ -14,6 +14,15 @@
 - Capital intensity and spectrum investment
 - Leverage, credit metrics, and cash flow durability
 - Long-term growth vs capex trade-offs
+
+- ## 📊 Key Outputs
+
+DCF Enterprise Value: ~$300B  
+Equity Value: ~$150B  
+Implied Share Price: ~$36  
+Trading Range: $30–34  
+Conclusion: Fairly valued with defensive yield support
+
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
