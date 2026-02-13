@@ -14,6 +14,15 @@
 - Streaming profitability
 - Content investment intensity
 - Linear TV decline risk
+- ## 📊 Key Outputs
+
+Trading Comps EV: $28.5 – $36.5B  
+Precedent Transactions EV: $36.5 – $47.0B  
+DCF EV: $32.0 – $40.0B  
+Current EV: ~$26B  
+Implied Upside: 20–35%  
+Recommendation: Pursue strategic alternatives
+
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
