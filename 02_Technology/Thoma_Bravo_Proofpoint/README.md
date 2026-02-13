@@ -15,6 +15,14 @@
 - Recurring revenue profile
 - Leverage and debt capacity
 - Exit multiple sensitivity
+- ## 📊 Key Outputs
+
+Entry Multiple: 11.0x EBITDA  
+Exit Multiple: 12.5x EBITDA  
+5-Year IRR: 24–27%  
+MOIC: ~2.5x  
+Recommendation: Strong recurring SaaS profile supports premium valuation
+
 ## 📂 Deliverables
 
 **Financial Model (Excel)**
